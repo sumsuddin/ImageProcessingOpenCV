@@ -1,0 +1,12 @@
+.vs
+AlgorithmsCpp/x64
+ImageProcessingOpenCV/bin
+ImageProcessingOpenCV/obj
+NativeFunctions/Debug
+packages
+x64
+Release
+*.opendb
+*.db
+ipch
+x64
